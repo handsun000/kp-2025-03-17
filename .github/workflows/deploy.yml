@@ -82,7 +82,7 @@ jobs:
           aws-region: ${{ secrets.AWS_REGION }}
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          instance-ids: "i-01622c1453ae7a07e"
+          instance-ids: "i-03512fe260b44d322"
           working-directory: /
           comment: Deploy
           command: |
