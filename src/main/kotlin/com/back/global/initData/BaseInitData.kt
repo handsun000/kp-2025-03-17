@@ -33,6 +33,7 @@ class BaseInitData(
         self.get1Plus1()
         self.get1Plus1()
         self.get1Plus1()
+        self.get1Plus1()
 
     }
 
